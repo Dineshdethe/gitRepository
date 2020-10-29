@@ -1,4 +1,4 @@
 my text file
-nothing is herea
-
+nothing is her
  i have change dd.txt file  
+compappre diff cahnges
